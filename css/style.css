@@ -571,7 +571,7 @@ h3.my-profession{
 }
 a{
     font-size: 16px;
-    color: #1b1b1b;
+    color: var(--text-black-700);
 }
 .contact .contact-form{
     flex: 0 0 100%;
